@@ -1,13 +1,13 @@
 ## Screenshots
 
 ### Chatbot Demo
-![Chatbot Demo](screenshots/chatbot_demo.jpg)
+![Chatbot Demo](chatbot_demo.jpg)
 
 ### Flask Server
-![Flask Server](screenshots/flask_running.jpg)
+![Flask Server](flask_server.jpg)
 
 ### Web Interface
-![Web Interface](screenshots/web_interface.jpg)
+![Web Interface](web_interface.jpg)
 
 ### Database
-![Database](screenshots/database_saved.jpg)
+![Database](database_created.jpg)
